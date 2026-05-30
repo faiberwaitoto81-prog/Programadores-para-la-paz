@@ -1,0 +1,8 @@
+Repositorio:
+Es el lugar donde se almacenan los archivos y el historial de cambios de un proyecto.
+
+Commit:
+Es un registro de los cambios realizados en un proyecto.
+
+Push:
+Es el comando que envía los cambios locales al repositorio remoto.
